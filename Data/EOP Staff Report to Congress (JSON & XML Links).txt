@@ -1,0 +1,50 @@
+EOP Staff Report to Congress - JSON & XML Format
+
+2015 |
+
+https://open.whitehouse.gov/api/views/ajab-5bsi/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/ajab-5bsi/rows.xml?accessType=DOWNLOAD
+
+
+2014 |
+
+https://open.whitehouse.gov/api/views/i9g8-9web/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/i9g8-9web/rows.xml?accessType=DOWNLOAD
+
+
+2013 |
+
+https://open.whitehouse.gov/api/views/bjhy-fcuv/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/bjhy-fcuv/rows.xml?accessType=DOWNLOAD
+
+
+2012 |
+
+https://open.whitehouse.gov/api/views/7g56-gtcd/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/7g56-gtcd/rows.xml?accessType=DOWNLOAD
+
+
+2011 |
+
+https://open.whitehouse.gov/api/views/x8jv-hp6c/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/x8jv-hp6c/rows.xml?accessType=DOWNLOAD
+
+2010 |
+
+https://open.whitehouse.gov/api/views/rcp4-3y7g/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/rcp4-3y7g/rows.xml?accessType=DOWNLOAD
+
+
+2009 |
+
+https://open.whitehouse.gov/api/views/52d3-jdwh/rows.json?accessType=DOWNLOAD
+
+https://open.whitehouse.gov/api/views/52d3-jdwh/rows.xml?accessType=DOWNLOAD
+
+
